@@ -1,0 +1,11 @@
+frmContactor = 0, 0, 796, 500, C, 0, 0, 796, 612, C
+Globals = 0, 0, 796, 612, C
+frmNotes = 0, 0, 812, 612, C, 0, 0, 812, 612, C
+frmLogin = 0, 0, 812, 612, C, 0, 0, 812, 612, C
+frmInternetSites = 0, 0, 796, 612, C, 0, 0, 796, 612, C
+frmWebBrowser = 0, 0, 812, 612, C, 0, 0, 812, 612, C
+frmAccounts = 0, 0, 812, 612, C, 0, 0, 796, 612, C
+frmColors = 0, 0, 812, 612, C, 0, 0, 796, 612, C
+frmHelper = 0, 0, 1020, 668, C, 0, 0, 812, 612, C
+mdiMainMenu = 0, 0, 812, 612, C, 0, 0, 796, 612, C
+frmVoiceMessages = 0, 0, 796, 500, C, 0, 0, 796, 500, C
